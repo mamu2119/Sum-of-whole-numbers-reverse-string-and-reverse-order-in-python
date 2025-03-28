@@ -1,0 +1,1 @@
+# Sum-of-whole-numbers-reverse-string-and-reverse-order-in-python
